@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoForFish", "GoForFish.csproj", "{E5EB6AEB-5713-457A-9CE5-432F483A08FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5EB6AEB-5713-457A-9CE5-432F483A08FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5EB6AEB-5713-457A-9CE5-432F483A08FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5EB6AEB-5713-457A-9CE5-432F483A08FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5EB6AEB-5713-457A-9CE5-432F483A08FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9EDA862-62B9-47F8-AE46-02F89D1CDF5D}
+	EndGlobalSection
+EndGlobal
