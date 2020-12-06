@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/git/lolsniperftw/GoForFish/Content/charactersheet.png","D:\git\lolsniperftw\GoForFish\Content\bin\DesktopGL\Content\charactersheet.png","CopyItem","File",5215,5215,0.001982
+"D:/git/lolsniperftw/GoForFish/Content/Gamejot.ttf","D:\git\lolsniperftw\GoForFish\Content\bin\DesktopGL\Content\Gamejot.ttf","CopyItem","File",27720,27720,0.0006614
+"D:/git/lolsniperftw/GoForFish/Content/Paragraph.spritefont","D:/git/lolsniperftw/GoForFish/Content/bin/DesktopGL/Content/Paragraph.xnb","FontDescriptionProcessor","SpriteFontContent",2074,37922,0.2530438
+"D:/git/lolsniperftw/GoForFish/Content/Title.spritefont","D:/git/lolsniperftw/GoForFish/Content/bin/DesktopGL/Content/Title.xnb","FontDescriptionProcessor","SpriteFontContent",2074,136226,0.0240108
